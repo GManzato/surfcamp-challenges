@@ -39,7 +39,6 @@ class OrangeTree
 end
 
 
-
 # You should be able to measure the tree
 # Each year, the tree should age (it becomes older and taller, and eventually dies).
 # A tree grows 1 meter per year until 10 years old. Then it stops.
